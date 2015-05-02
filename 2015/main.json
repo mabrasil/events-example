@@ -13,6 +13,19 @@
         "price": "R$ 70"
     },
     {
+        "name": "Front in Aracaju",
+        "slug": "front-in-aracaju",
+		"website": "http://www.frontinaracaju.com.br",
+        "thumbnail": "http://braziljs.org/services/events/media/2015/front-in-aracaju.jpg",
+        "category_slug": "conference",
+        "sub_category_slug": "sergipe",
+        "location": "Aracaju, Sergipe",
+        "map_query": "",		
+        "year": "2015",
+		"date": "2015-09-05",
+        "price": "??"
+    },
+    {
         "name": "Front in Fortaleza",
         "slug": "front-in-fortaleza",
 		"website": "http://www.frontinfortaleza.com.br",
