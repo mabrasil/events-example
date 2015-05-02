@@ -1,0 +1,18 @@
+{
+    "name": "1º Conferência CSS Brasil",
+    "slug": "1-conferencia-css-brasil",
+    "website": "http://www.conferenciacssbrasil.com.br",
+    "email": "falecom@conferenciacssbrasil.com.br",
+    "show_buy_tickets": true,
+    "tickets_url": "http://www.eventick.com.br/conferenciacssbrasil",
+    "thumbnail": "http://braziljs.org/services/events/media/2015/conferenciacss.jpg",
+    "category_slug": "conference",
+    "html_about": "<p>Aproveite a oportunidade para fortalecer o networking com outros profissionais e principalmente para conferir palestras com grandes nomes do mercado. A 1ª Conferência CSS Brasil contará com a toda a infraestrutura de internet e o máximo conforto para você aproveitar bem o dia e sair de lá com o conhecimento renovado.</p>\n",
+    "location": "São Paulo, São Paulo",
+    "street_address": "Alameda Campinas, 150 - Jardim Paulista",
+    "map_query": "Alameda Campinas, 150 - Jardim Paulista São Paulo - SP",	
+    "year": "2015",
+	"date": "2015-05-09",
+    "price": "R$ 220",
+    "previous_photos": []
+}

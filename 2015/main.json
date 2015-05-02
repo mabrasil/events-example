@@ -26,6 +26,19 @@
         "price": "??"
     },
     {
+        "name": "1º Conferência CSS Brasil",
+        "slug": "1-conferencia-css-brasil",
+		"website": "http://www.conferenciacssbrasil.com.br",
+        "thumbnail": "http://braziljs.org/services/events/media/2015/conferenciacss.jpg",
+        "category_slug": "conference",
+        "sub_category_slug": "sao-paulo",
+        "location": "São Paulo, São Paulo",
+        "map_query": "Alameda Campinas, 150 - Jardim Paulista São Paulo - SP",		
+        "year": "2015",
+		"date": "2015-05-09",
+        "price": "R$ 220"
+    },
+    {
         "name": "Front in Fortaleza",
         "slug": "front-in-fortaleza",
 		"website": "http://www.frontinfortaleza.com.br",
