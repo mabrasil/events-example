@@ -39,6 +39,19 @@
         "price": "R$ 220"
     },
     {
+        "name": "RSJS",
+        "slug": "rsjs",
+		"website": "http://rsjs.org/2015",
+        "thumbnail": "http://braziljs.org/services/events/media/2015/rsjs.jpg",
+        "category_slug": "conference",
+        "sub_category_slug": "rio-grande-do-sul",
+        "location": "Porto Alegre, Rio Grande do Sul",
+        "map_query": "Rua Orfanotrófio, 515 Porto Alegre, Rio Grande do Sul",		
+        "year": "2015",
+		"date": "2015-05-16",
+        "price": "R$ 80"
+    },
+    {
         "name": "Front in Fortaleza",
         "slug": "front-in-fortaleza",
 		"website": "http://www.frontinfortaleza.com.br",
