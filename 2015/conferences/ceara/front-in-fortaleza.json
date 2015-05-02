@@ -13,16 +13,6 @@
     "map_query": "Av. Alm. Maximiano da Fonseca, 1395 - Eng. Luciano Cavalcante - 60811-020. Fortaleza, Ceará",	
     "year": "2015",
 	"date": "2015-05-16",
-    "price": "R$ 70"
-    "previous_photos": [
-        {
-            "asset_url": "path/to/front-in-fortaleza1.jpg"
-        },
-        {
-            "asset_url": "path/to/front-in-fortaleza2.jpg"
-        },
-        {
-            "asset_url": "path/to/front-in-fortaleza3.jpg"
-        }
-    ]
+    "price": "R$ 70",
+    "previous_photos": []
 }
