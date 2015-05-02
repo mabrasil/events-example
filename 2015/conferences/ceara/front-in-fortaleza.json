@@ -1,0 +1,28 @@
+{
+    "name": "Front in Fortaleza",
+    "slug": "front-in-fortaleza",
+    "website": "http://www.frontinfortaleza.com.br",
+    "email": "contato@frontinfortaleza.com.br",
+    "show_buy_tickets": true,
+    "tickets_url": "http://www.eventick.com.br/front-in-fortaleza-2015",
+    "thumbnail": "path/to/front-in-fortaleza.jpg",
+    "category_slug": "conference",
+    "html_about": "<p>A Primeira edição do Front in Fortaleza foi um sucesso e no ano de 2015 ocorrerá dia 16 de Maio na Faculdade 7 de Setembro, sempre como tema principal o desenvolvimento da camada mais próxima dos usuários e clientes de soluções web, ou seja, tudo que ele vê e interage: FrontEnd e suas tecnologias (HTML, CSS, JavaScript e afins).</p>\n",
+    "location": "Fortaleza, Ceará",
+    "street_address": "Av. Alm. Maximiano da Fonseca, 1395",
+    "map_query": "Av. Alm. Maximiano da Fonseca, 1395 - Eng. Luciano Cavalcante - 60811-020. Fortaleza, Ceará",	
+    "year": "2015",
+	"date": "2015-05-16",
+    "price": "R$ 70"
+    "previous_photos": [
+        {
+            "asset_url": "path/to/front-in-fortaleza1.jpg"
+        },
+        {
+            "asset_url": "path/to/front-in-fortaleza2.jpg"
+        },
+        {
+            "asset_url": "path/to/front-in-fortaleza3.jpg"
+        }
+    ]
+}

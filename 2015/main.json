@@ -1,0 +1,15 @@
+[
+    {
+        "name": "Front in Fortaleza",
+        "slug": "front-in-fortaleza",
+		"website": "http://www.frontinfortaleza.com.br",
+        "thumbnail": "path/to/front-in-fortaleza.jpg",
+        "category_slug": "conference",
+        "sub_category_slug": "ceara",
+        "location": "Fortaleza, Ceará",
+        "map_query": "Av. Alm. Maximiano da Fonseca, 1395 - Eng. Luciano Cavalcante - 60811-020. Fortaleza, Ceará",		
+        "year": "2015",
+		"date": "2015-05-16",
+        "price": "R$ 70"
+    }
+]
