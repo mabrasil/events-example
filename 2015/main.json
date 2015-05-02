@@ -1,5 +1,18 @@
 [
     {
+        "name": "Front-End Carioca",
+        "slug": "front-end-carioca",
+		"website": "http://frontendcarioca.com.br",
+        "thumbnail": "http://braziljs.org/services/events/media/2015/front-end-carioca.png",
+        "category_slug": "conference",
+        "sub_category_slug": "rio-de-janeiro",
+        "location": "Rio de Janeiro, Rio de Janeiro",
+        "map_query": "Av. Rio Branco, 124 - Centro, Rio de Janeiro - RJ, 20040-001",		
+        "year": "2015",
+		"date": "2015-09-26",
+        "price": "R$ 70"
+    },
+    {
         "name": "Front in Fortaleza",
         "slug": "front-in-fortaleza",
 		"website": "http://www.frontinfortaleza.com.br",

@@ -1,0 +1,18 @@
+{
+    "name": "Front-End Carioca",
+    "slug": "front-end-carioca",
+    "website": "http://frontendcarioca.com.br",
+    "email": "contato@frontendcarioca.com.br",
+    "show_buy_tickets": true,
+    "tickets_url": "http://www.eventick.com.br/front-end-carioca-2015",
+    "thumbnail": "http://braziljs.org/services/events/media/2015/front-end-carioca.png",
+    "category_slug": "conference",
+    "html_about": "<p>O Front-end Carioca surgiu de uma ideia dentro da comunidade de desenvolvedores web, tendo como objetivo enriquecer o conhecimento profissional através de ciclos de palestras, workshop, networking e é claro, bastante incentivo. Em 2014, na Universidade Veiga de Almeida, realizamos nossa primeira edição e com certeza foi um sucesso, fizemos de tudo para apresentar um ótimo conteúdo aos participantes. Já em 2015 estamos vindo com força total e bastante conteúdo legal, propostas de estágios, empregos, parcerias, sorteios de cursos e de livros. Além da principal parte do evento: networking, onde os participantes trocam ideias/experiências e a comunidade cresce.</p>\n",
+    "location": "Rio de Janeiro, Rio de Janeiro",
+    "street_address": "Av. Rio Branco, 124 - Centro",
+    "map_query": "Av. Rio Branco, 124 - Centro, Rio de Janeiro - RJ, 20040-001",	
+    "year": "2015",
+	"date": "2015-09-26",
+    "price": "R$ 70",
+    "previous_photos": []
+}
