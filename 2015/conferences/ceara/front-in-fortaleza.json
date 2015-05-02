@@ -5,7 +5,7 @@
     "email": "",
     "show_buy_tickets": true,
     "tickets_url": "http://www.eventick.com.br/front-in-fortaleza-2015",
-    "thumbnail": "path/to/front-in-fortaleza.jpg",
+    "thumbnail": "http://braziljs.org/services/events/media/2015/front-in-fortaleza.jpg",
     "category_slug": "conference",
     "html_about": "<p>A Primeira edição do Front in Fortaleza foi um sucesso e no ano de 2015 ocorrerá dia 16 de Maio na Faculdade 7 de Setembro, sempre como tema principal o desenvolvimento da camada mais próxima dos usuários e clientes de soluções web, ou seja, tudo que ele vê e interage: FrontEnd e suas tecnologias (HTML, CSS, JavaScript e afins).</p>\n",
     "location": "Fortaleza, Ceará",
