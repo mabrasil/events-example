@@ -1,0 +1,18 @@
+{
+    "name": "RuPy Campinas",
+    "slug": "rupy-campinas",
+    "website": "http://campinas.rupy.com.br",
+    "email": "",
+    "show_buy_tickets": true,
+    "tickets_url": "https://eventioz.com.br/e/rupy-campinas-2015",
+    "thumbnail": "http://braziljs.org/services/events/media/2015/rupy-campinas.jpg",
+    "category_slug": "conference",
+    "html_about": "<p>O evento para apaixonados por desenvolvimento acontece agora também em Campinas-SP. Tudo sobre Ruby, Python, JavaScript e o que há de mais incrível perto de você.</p>\n",
+    "location": "Campinas, São Paulo",
+    "street_address": "FEEC - UNICAMP - Avenida Albert Einstein, 400",
+    "map_query": "Avenida Albert Einstein, 400. Campinas, São Paulo",    
+    "year": "2015",
+    "date": "2015-06-20",
+    "price": "R$ 60",
+    "previous_photos": []
+}

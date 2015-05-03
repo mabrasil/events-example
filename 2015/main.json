@@ -52,6 +52,19 @@
         "price": "R$ 80"
     },
     {
+        "name": "RuPy Campinas",
+        "slug": "rupy-campinas",
+        "website": "http://campinas.rupy.com.br",
+        "thumbnail": "http://braziljs.org/services/events/media/2015/rupy-campinas.jpg",
+        "category_slug": "conference",
+        "sub_category_slug": "sao-paulo",
+        "location": "Campinas, São Paulo",
+        "map_query": "Avenida Albert Einstein, 400. Campinas, São Paulo",        
+        "year": "2015",
+        "date": "2015-06-20",
+        "price": "R$ 60"
+    },
+    {
         "name": "Front in Fortaleza",
         "slug": "front-in-fortaleza",
         "website": "http://www.frontinfortaleza.com.br",
