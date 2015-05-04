@@ -6,7 +6,7 @@
     "show_buy_tickets": true,
     "tickets_url": "http://www.eventick.com.br/rsjs-2015",
     "thumbnail": "http://braziljs.org/services/events/media/2015/rsjs.jpg",
-    "category_slug": "conference",
+    "category_slug": "conferences",
     "sub_category_slug": "rio-grande-do-sul",
     "html_about": "<p>Quarta edição do maior evento (do primeiro semestre) de JavaScript da Querência Amada. A história do evento tá lá nas páginas das aclamadas primeira, segunda e terceira edições.</p>\n",
     "location": "Porto Alegre, Rio Grande do Sul",
